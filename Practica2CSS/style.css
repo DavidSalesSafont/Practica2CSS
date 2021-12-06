@@ -1,0 +1,11 @@
+h3{background-color:yellow; padding-top:25px;padding-bottom:25px;position:relative; text-align:center;margin-top:-4px;margin-bottom:0px}
+#div1{width:1000px;margin: 0 auto;text-align:center;}
+#div2{border-top: solid blue 17px;border-bottom: solid blue 17px;padding-top:10px;padding-bottom:10px;}
+#div2-2{width:1600px;text-align:center;}
+span{font-size:1.6em;}
+#div3{background-image:url("img/valencia_antigua.jpg");color:blue;height:155px;width:1300px;background-size:500px;border:black solid 2px;font-weight:bold;font-size:13px;margin-bottom:13px;}
+#div4{text-align:center;background-color:pink}
+
+#div1 img:hover{opacity:0.5;cursor:pointer;}
+#div2-2 span:hover{background-color:green; font-weight:bold;cursor:pointer;}
+
